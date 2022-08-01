@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddresch&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddresch&count_private=true&show_icons=true&theme=onedark&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ddresch/ddresch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
